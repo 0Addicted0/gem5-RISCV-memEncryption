@@ -32,7 +32,7 @@ The main source tree includes these subdirectories:
    - tests: regression tests
    - util: useful utility programs and files
 
-To run full-system simulations, you may need compiled system firmware, kernel
+{\color{Red} To run full-system simulations, you may need compiled system firmware, kernel}
 
 binaries and one or more disk images, depending on gem5's configuration and
 what type of workload you're trying to run. Many of those resources can be
